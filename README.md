@@ -1,5 +1,6 @@
 <h1> SOBRE O SITE DE PRODUTO </h1>
-[imagem inicial](imagem%20inicial.png)
+
+![imagem inicial](imagem%20inicial.png)
 
 * <h4> Nesse site encontramos diversos tipos de joias e de marcas como: </h4>
 * <h2> Anel da Vivara </h2> 

@@ -1,4 +1,4 @@
-<h1> SITE DE PRODUTO </h1>
+<h1> 📋 SITE DE PRODUTO </h1>
 
 ![imagem inicial](imagem%20inicial.png)
 
@@ -13,6 +13,7 @@
 * <h4> como podemos utilizar esse site </h4> 
 * Podemos usar esse site para comprar joias
 
-* foi utilizado os seguintes comandos 
+* <h4>foi utilizado os seguintes comandos</h4> 
 * css 
 * html 
+

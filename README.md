@@ -1,4 +1,4 @@
-<h1> SOBRE O SITE DE PRODUTO </h1>
+<h1> SITE DE PRODUTO </h1>
 
 ![imagem inicial](imagem%20inicial.png)
 
@@ -9,11 +9,7 @@
 ![imagem colar](colartiffany.png)
 * <h2> Bracelete da Pandora </h2>  
 ![imagem bracelete](Pandora%201.png)
-img {width: 10%;
-    position: absolute;
-    left: 1200px;
-    top: 150px;
-    border-radius: 50%;}
+
 * <h4> como podemos utilizar esse site </h4> 
 * Podemos usar esse site para comprar joias
 
